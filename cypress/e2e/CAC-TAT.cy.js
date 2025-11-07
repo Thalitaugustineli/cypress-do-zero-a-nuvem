@@ -436,7 +436,12 @@
    // Exercício: 14 - Criar um md
 
    // SEÇÃO 10: Integração Continua CI com Github Actions
-   
+
+   // Exercício 15: Subir um arquivo de .github/workflows e incluir uma validação
+
+   // Incluso novos documentos gitHub e rodando dentro do GitHub
+
+    
 
 
  
