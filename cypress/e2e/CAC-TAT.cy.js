@@ -420,7 +420,25 @@
     // Exercício: 12.2 - Testanto de forma independente a página de Pólitica de privacidade: cypress/e2e/privacePolicy.cy.js
 
     // SEÇÃO 8: Simulando as dimensões de um dispositivo móvel no Cypress
-    
+
+    // Exercício 13 - Configerar o Cypress pelo viewport
+    // Foi criado a linha no documento packge.json para abrir no modo Mobile com o viewport aplicado
+    //    "cy:open:mobile": "cypress open --config viewportWidth=375,viewportHeight=600",
+
+
+   // Exercício: 13.1 - Rodar os Testes no modo headlls 
+
+   // Gravar um vídeo da execução, ir no config e por "video:true"
+   //Foi criado a linha no documento packge.json 
+
+   // SEÇÃO 9: Criar uma documentação dos testes 
+
+   // Exercício: 14 - Criar um md
+
+   // SEÇÃO 10: Integração Continua CI com Github Actions
+   
+
+
  
 
 })
