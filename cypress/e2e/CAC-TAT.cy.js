@@ -441,6 +441,13 @@
 
    // Incluso novos documentos gitHub e rodando dentro do GitHub
 
+    // Exercício 16: Errar o arquivo de script de propósito
+
+    // SEÇÃO 11: Integrando com o Cypress Cloud
+
+
+
+
     
 
 
